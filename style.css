@@ -134,6 +134,10 @@ footer ul{
 	margin: 0 10px;
 }
 
+try{
+	padding:30;
+	width: 50px;
+
 footer a{
 	color: white;
 	font-size: 17px;
